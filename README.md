@@ -46,7 +46,7 @@ This project takes together 20 million data points from huge datasets and establ
     • Connection Established: 43 active connections.
 ##  Save the file:
     Save the file .pbix format
-File: https://drive.google.com/file/d/1ePSMH0q9KmVGQgKLmKtYNGXbQOmqp-Yj/view?usp=sharing
+File: https://drive.google.com/drive/folders/1HrHs3bMsSugzyEqlo12FfvXrquv9DxMy?usp=sharing
 
 ##  Result:
 This dashboard provides a comprehensive overview of sales data, allowing users to understand sales performance across different product categories, promotions, and geographical areas. The combination of bar charts, a map, a table, and a donut chart offers multiple perspectives on the data, aiding in effective decision-making.
